@@ -7,6 +7,7 @@ This repository contains the backend of the Course Management System, developed 
 
 Ensure that you have the following installed on your local machine:
 
+- **`Operating System`**:(Ubuntu(Recommended),Linux,windows)
 - Docker
 - Docker Compose
 
