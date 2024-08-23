@@ -53,3 +53,18 @@ To run the project locally, follow these steps:
 ## Troubleshooting
 
 If you encounter any issues, ensure that Docker and Docker Compose are installed correctly and that no other services are running on ports `8000` or `3000`.
+
+## Images
+![homepage](https://github.com/user-attachments/assets/ad315e47-3501-4650-8013-115ded43e110)
+![addcourse](https://github.com/user-attachments/assets/c72ef859-4f89-4a98-a0d6-0bf6f7d026db)
+![allcourses](https://github.com/user-attachments/assets/ac611332-c22a-408f-85a3-28753a12303f)
+![Addinst](https://github.com/user-attachments/assets/ad71e123-802a-4d33-8f8a-9ea91ae1a69f)
+![courseinstance](https://github.com/user-attachments/assets/ba352a5a-67ad-4378-a24b-ce6c935047fb)
+![ListOutinsctnces](https://github.com/user-attachments/assets/c16d271f-c215-408d-9c33-74ed5ce66cdc)
+
+## Video
+
+
+https://github.com/user-attachments/assets/3385d35b-32e2-47e5-ac42-bc5131b2d8d6
+
+
