@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  backend:
+    image: suman51/backend-assignment
+    ports:
+      - "8000:8000"
+
+
+  frontend:
+    image: suman51/frontend-assignment
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
