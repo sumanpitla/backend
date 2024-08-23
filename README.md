@@ -36,6 +36,8 @@ To run the project locally, follow these steps:
 
    ```bash
    docker-compose up
+    (or)
+   sudo docker-compose up
    ```
 
 3. **Access the application:**
